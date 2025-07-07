@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+
+body {
+  margin: 0;
+  /* position: absolute; */
+  /* margin-top: 120px; */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 900;
+  font-family: "Montserrat", sans-serif !important;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav-item {
+  color: black;
+  font-weight: 800;
+  font-size: 25px;
+}
+
+.navbar-brand{
+  color: rgb(76, 0, 255);
+  font-weight: 900;
+  font-size: 28px;
+  font-family: Georgia;
+}
+.flex-container{
+  display: flex !important;
+  /* margin-top: 10px; */
+}
+.btn{
+  background-color: red !important;
+  color: white !important;
+}
+select{
+  box-shadow: none !important;
+  border-color: black !important;
+}
